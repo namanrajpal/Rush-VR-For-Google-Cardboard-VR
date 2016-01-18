@@ -1,8 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CameraMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScoreSCript.cs">
     <Files>
-      <File FileName="Assets\CameraMovement.cs" Line="10" Column="3" />
+      <File FileName="Assets\ScoreSCript.cs" Line="35" Column="68" />
+      <File FileName="Assets\AutoDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cardboard\Scripts\CardboardHead.cs" Line="1" Column="1" />
+      <File FileName="Assets\BodyCollision.cs" Line="14" Column="35" />
+      <File FileName="Assets\DataBetweenScenes.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameManager.cs" Line="11" Column="29" />
+      <File FileName="Assets\CubeRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\ScreenFlash.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

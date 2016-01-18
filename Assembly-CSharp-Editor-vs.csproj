@@ -46,14 +46,15 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CardboardSDK\Editor\CardboardEditor.cs" />
-     <Compile Include="Assets\CardboardSDK\Editor\StereoControllerEditor.cs" />
-     <None Include="Assets\CardboardSDK\Legacy\Resources\SkyboxMesh.shader" />
-     <None Include="Assets\CardboardSDK\Legacy\Resources\GUIScreen.shader" />
+     <Compile Include="Assets\Cardboard\Editor\CardboardEditor.cs" />
+     <Compile Include="Assets\Cardboard\Editor\StereoControllerEditor.cs" />
+     <None Include="Assets\Cardboard\Legacy\Resources\SkyboxMesh.shader" />
+     <None Include="Assets\PrimitivePlus\Documentation\ReadMe.txt" />
+     <None Include="Assets\Cardboard\Legacy\Resources\GUIScreen.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Plugins\Legacy\Android\AndroidManifest.xml" />
-     <None Include="Assets\CardboardSDK\Resources\RadialUndistortionEffect.shader" />
-     <None Include="Assets\CardboardSDK\Resources\SolidColor.shader" />
+     <None Include="Assets\Cardboard\Resources\RadialUndistortionEffect.shader" />
+     <None Include="Assets\Cardboard\Resources\SolidColor.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

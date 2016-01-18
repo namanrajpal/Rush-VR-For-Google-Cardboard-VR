@@ -17,10 +17,11 @@ public class FrontSpawner : MonoBehaviour {
 	
 	}
 	void OnTriggerEnter(Collider other) {
+						
+						if (other.gameObject.tag == "spawner") {
+						Instantiate (ground, transform.position + spawnpos, Quaternion.identity);
 
-		Instantiate (ground, transform.position+spawnpos, Quaternion.identity);
-
-		Destroy (gameObject);
-
+						Destroy (gameObject);
+				}	
 	}
 }
